@@ -47,3 +47,7 @@ We combined traditional actuarial modeling with deep learning to enhance predict
 - TensorFlow
 - Matplotlib / Seaborn
 
+
+---
+
+
